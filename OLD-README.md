@@ -11,16 +11,7 @@
 <img src="https://img.shields.io/badge/creator%20-1337r0j4n-brown?style=for-the-badge">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fphp-backdoors&countColor=%23263759">
 </p>
-
-<h2 align="center">Wide view github page</h2>
-<p align="center">
-<img src="https://1337r0j4n.github.io/php-backdoors/images/Screencast.gif">
-</p>
-
-<p align="center">
-https://1337r0j4n.github.io/php-backdoors
-</p>
-
+ 
 | NAME | DOWNLOAD ( RAW / ZIP ) | PREVIEW IMG of SHELL INDEX |
 | :--- | :-------:| :-----: |
 | 0byt3m1n1 Shell | [0byt3m1n1.php](https://raw.githubusercontent.com/1337r0j4n/webshells/main/SHELLs/0byt3m1n1%20Shell/0byt3m1n1.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/0byt3m1n1%20Shell/0byt3m1n1.zip) | [screenshot](https://github.com/1337r0j4n/webshells/tree/main/SHELLs/0byt3m1n1%20Shell) |
